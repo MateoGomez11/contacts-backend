@@ -6,14 +6,14 @@ This project was created as part of my backend development learning journey, fol
 ---
 
 ## ✨ Features
-- 🔹 REST API with Express.js
-- 🔹 CRUD operations for contacts
-- 🔹 User registration & login
-- 🔹 Password hashing with bcrypt
-- 🔹 JWT authentication & route protection
-- 🔹 Relationship between users and contacts
-- 🔹 MongoDB with Mongoose for data persistence
-- 🔹 Error handling middleware and async handlers
+- REST API with Express.js
+- CRUD operations for contacts
+- User registration & login
+- Password hashing with bcrypt
+- JWT authentication & route protection
+- Relationship between users and contacts
+- MongoDB with Mongoose for data persistence
+- Error handling middleware and async handlers
 
 ---
 
